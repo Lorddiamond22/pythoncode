@@ -5,3 +5,4 @@ penggaris
 penghapus
 rautan
 pulpen
+kursi
